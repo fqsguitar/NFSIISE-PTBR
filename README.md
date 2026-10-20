@@ -1,5 +1,7 @@
 # Need for Speed II Special Edition — Tradução PT-BR 🇧🇷
 
+> **Tradução brasileira de Need for Speed II Special Edition (1997).** Reviva esse clássico das corridas em PT-BR, com menus traduzidos, arquivos editáveis e gerador de tradução!
+
 Tradução comunitária para português brasileiro de Need for Speed II Special Edition (PC).
 
 ## Instalação
