@@ -1,0 +1,25 @@
+NEED FOR SPEED II SPECIAL EDITION (1997) - TRADUCAO PT-BR
+====================================================
+
+INSTALACAO RAPIDA
+1. Feche o jogo.
+2. Entre na pasta onde esta o nfs2se.exe.
+3. Faca backup do text.eng original.
+4. Copie o text.eng traduzido para essa pasta, substituindo o arquivo.
+5. Abra o jogo normalmente.
+
+ATENCAO: a pasta correta e a RAIZ do jogo, nao FEDATA\PC\TEXT.
+
+PERSONALIZAR A TRADUCAO
+1. Abra NFSIISE_PTBR.csv no Excel.
+2. Edite SOMENTE a coluna traducao_ptbr_proposta.
+3. Salve como CSV UTF-8, separado por virgulas.
+4. Execute GERAR_TEXT_ENG.bat no Windows.
+5. Copie o novo text.eng para a pasta do jogo, apos fazer backup.
+
+O gerador usa PowerShell e requer o arquivo text.original.eng.
+Entradas sem traducao mantem o texto original em ingles.
+A codificacao e Windows-1252.
+
+A traducao substitui o idioma ingles; nao adiciona um setimo idioma.
+Projeto independente de fas, sem vinculo com Electronic Arts.
